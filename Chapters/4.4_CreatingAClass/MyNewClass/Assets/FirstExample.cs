@@ -1,8 +1,9 @@
-﻿// Lets start here as you follow along
+// Lets start here as you follow along
 
 public class MyNewClass
 {
     //code goes here...
+	changes.
 }
 
 // the above is a complete class declaration.
