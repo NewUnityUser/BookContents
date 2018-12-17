@@ -1,5 +1,12 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿/*
+ * Chapter 2.2 Class Construction
+ *
+ * Copyright © 2018 Alex Okita
+ *
+ * This software may be modified and distributed under the terms
+ * of the MIT license.  See the LICENSE file for details.
+ */
+
 using UnityEngine;
 
 public class LineNumbers : MonoBehaviour
@@ -10,7 +17,7 @@ public class LineNumbers : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-        print(MyFunction(SomeInt, OtherInt));
+        // a new line of code appears!
     }
 
     // Update is called once per frame
